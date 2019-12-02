@@ -6,7 +6,7 @@ echo.
 echo ===============================================
 echo -= MIKROTIK PORT SCANNER BY BUANANET SECURE =-
 echo ===============================================
-set /p ip="TARGET IP ADRRESS: "
+set /p ip="TARGET IP ADDRESS: "
 echo.
 echo SCANNING PLEASE WAIT...
 echo.
